@@ -1,16 +1,31 @@
-## Hi there 👋
+💫 About Me:
+🔭 I’m currently working on a game called supermarket simulator
+👯 I’m looking to colloborate with Game/Web devs
+🌱 I’m Currently learning Web deveopment for starting a business with it
+💬 Ask Me about Video games and Computers
+⚡ Here is a fun fact most of my code run even if I forgot a semicolon
 
-<!--
-**RajamdGamer/RajamdGamer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🌐 Socials:
+[Behance](https://behance.net/raja md) [LinkedIn](https://linkedin.com/in/Raja Mohammed)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Tech Stack:
+C# JavaScript HTML5 Python Bash Script Windows Terminal AWS Firebase .Net Vite WordPress WebGL React NPM JWT Flask Express.js Apache Firebase Postgres MongoDB MySQL Adobe After Effects Adobe Illustrator Adobe Photoshop Adobe Premiere Pro Figma NumPy Pandas Git GitHub Perforce Helix Steam Itch.io Unreal Engine Unity Notion Postman Epic Games
+
+📊 GitHub Stats:
+
+
+
+
+
+
+✍️ Random Dev Quote
+
+
+🔝 Top Contributed Repo
+
+
+
+
+💰 You can help me by Donating
+[PayPal](https://paypal.me/Raja Mmed) [Ko-Fi](https://ko-fi.com/Raja mD)
