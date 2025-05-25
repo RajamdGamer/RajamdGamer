@@ -13,18 +13,4 @@ Java React MongoDB JavaScript HTML5 Python Bash Script Windows Terminal Hibernat
 
 📊 GitHub Stats:
 
-
-
-
-
-
-✍️ Random Dev Quote
-
-
-🔝 Top Contributed Repo
-
-
-
-
-💰 You can help me by Donating
 [PayPal](https://paypal.me/Raja Mmed) [Ko-Fi](https://ko-fi.com/Raja mD)
