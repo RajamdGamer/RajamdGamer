@@ -13,4 +13,3 @@ Java React MongoDB JavaScript HTML5 Python Bash Script Windows Terminal Hibernat
 
 📊 GitHub Stats:
 
-[PayPal](https://paypal.me/Raja Mmed) [Ko-Fi](https://ko-fi.com/Raja mD)
